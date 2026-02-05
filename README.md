@@ -1,2 +1,2 @@
-# openclaw-skills-registry
-Community-submitted OpenClaw skill listings (directory only, no installs)
+# agents-skills-registry
+Community-submitted listings for Agent Install (directory only, no installs)
