@@ -1,6 +1,6 @@
 name: Plugin Listing Submission
-description: Submit a listing for the OpenClaw Builder Showcase
-title: "[Skill] <name>"
+description: Submit a listing for the Agent Install Showcase
+title: "[Plugin] <name>"
 labels: ["submission"]
 body:
   - type: markdown
